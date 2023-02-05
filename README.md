@@ -1,2 +1,2 @@
-# GuessANumber
-My first project- Guess a number game in JS
+# ClockTest
+My first project- automatic clock
